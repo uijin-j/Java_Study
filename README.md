@@ -13,7 +13,7 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-03-24(금)
     - Chapter 1 자바를 시작하기 전에 / Chapter 2 변수(Variable)
-    - 정의진([https://uijin.tistory.com/43](https://uijin.tistory.com/43))
+    - 정의진(https://uijin.tistory.com/43)
     - 전창하()
     - 신민규()
     - 고병서()
