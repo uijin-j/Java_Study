@@ -15,5 +15,5 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 1 자바를 시작하기 전에 / Chapter 2 변수(Variable)
     - 정의진(https://uijin.tistory.com/43)
     - 전창하(https://changha-dev.tistory.com/151)
-    - 신민규()
+    - 신민규(https://ukym-tistory.tistory.com/2)
     - 고병서()
