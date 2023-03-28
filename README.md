@@ -16,4 +16,4 @@ Tools Java Study for Spring 🪴🐶
     - 정의진(https://uijin.tistory.com/43)
     - 전창하(https://changha-dev.tistory.com/151)
     - 신민규(https://ukym-tistory.tistory.com/2)
-    - 고병서()
+    - 고병서(https://ko021954.tistory.com/2)
