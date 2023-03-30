@@ -17,3 +17,11 @@ Tools Java Study for Spring 🪴🐶
     - 전창하(https://changha-dev.tistory.com/151)
     - 신민규(https://ukym-tistory.tistory.com/2)
     - 고병서(https://ko021954.tistory.com/2)
+    
+
+#### 2023-03-30(목)
+    - Chapter 3 연산자(Operator) / Chapter 4 조건문과 반복문
+    - 정의진()
+    - 전창하()
+    - 신민규()
+    - 고병서()
