@@ -21,7 +21,23 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-03-30(목)
     - Chapter 3 연산자(Operator) / Chapter 4 조건문과 반복문
-    - 정의진()
+    - 정의진(https://uijin.tistory.com/48)
     - 전창하()
     - 신민규()
     - 고병서(https://ko021954.tistory.com/3)
+    
+    
+#### 2023-04-06 / 2023-04-13 시험기간(스터디X)
+    - Chapter 5 배열(Array) - 과제
+    - 정의진()
+    - 전창하()
+    - 신민규()
+    - 고병서()
+    
+    
+#### 2023-04-20
+    - Chapter 6 객체지향언어 1
+    - 정의진()
+    - 전창하()
+    - 신민규()
+    - 고병서()
