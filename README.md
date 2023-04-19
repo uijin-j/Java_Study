@@ -23,7 +23,7 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 3 연산자(Operator) / Chapter 4 조건문과 반복문
     - 정의진(https://uijin.tistory.com/48, https://uijin.tistory.com/49)
     - 전창하()
-    - 신민규()
+    - 신민규(https://ukym-tistory.tistory.com/3, https://ukym-tistory.tistory.com/4)
     - 고병서(https://ko021954.tistory.com/3)
     
     
@@ -31,7 +31,7 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 5 배열(Array) - 과제
     - 정의진()
     - 전창하()
-    - 신민규()
+    - 신민규(https://ukym-tistory.tistory.com/5)
     - 고병서()
     
     
