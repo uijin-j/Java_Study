@@ -29,7 +29,7 @@ Tools Java Study for Spring 🪴🐶
     
 #### 2023-04-06 / 2023-04-13 시험기간(스터디X)
     - Chapter 5 배열(Array) - 과제
-    - 정의진()
+    - 정의진(https://uijin.tistory.com/50)
     - 전창하()
     - 신민규(https://ukym-tistory.tistory.com/5)
     - 고병서()
