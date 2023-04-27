@@ -38,6 +38,6 @@ Tools Java Study for Spring 🪴🐶
 #### 2023-04-20(목)
     - Chapter 6 객체지향언어 1
     - 정의진()
-    - 전창하()
+    - 전창하(https://changha-dev.tistory.com/153)
     - 신민규(https://ukym-tistory.tistory.com/6)
     - 고병서(https://ko021954.tistory.com/5)
