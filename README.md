@@ -47,5 +47,5 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 6 객체지향언어 1 - 2/2
     - 정의진(https://uijin.tistory.com/52)
     - 전창하()
-    - 신민규()
+    - 신민규(https://ukym-tistory.tistory.com/6)
     - 고병서()
