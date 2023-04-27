@@ -36,8 +36,16 @@ Tools Java Study for Spring 🪴🐶
     
     
 #### 2023-04-20(목)
-    - Chapter 6 객체지향언어 1
+    - Chapter 6 객체지향언어 1 - 1/2
     - 정의진(https://uijin.tistory.com/51)
     - 전창하(https://changha-dev.tistory.com/153)
     - 신민규(https://ukym-tistory.tistory.com/6)
     - 고병서(https://ko021954.tistory.com/5)
+    
+    
+#### 2023-04-27(목)
+    - Chapter 6 객체지향언어 1 - 2/2
+    - 정의진()
+    - 전창하()
+    - 신민규()
+    - 고병서()
