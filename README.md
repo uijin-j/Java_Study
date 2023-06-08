@@ -22,7 +22,7 @@ Tools Java Study for Spring 🪴🐶
 #### 2023-03-30(목)
     - Chapter 3 연산자(Operator) / Chapter 4 조건문과 반복문
     - 정의진(https://uijin.tistory.com/48, https://uijin.tistory.com/49)
-    - 전창하()
+    - 전창하(https://changha-dev.tistory.com/152)
     - 신민규(https://ukym-tistory.tistory.com/3, https://ukym-tistory.tistory.com/4)
     - 고병서(https://ko021954.tistory.com/3)
     
@@ -46,7 +46,7 @@ Tools Java Study for Spring 🪴🐶
 #### 2023-04-27(목)
     - Chapter 6 객체지향언어 1 - 2/2
     - 정의진(https://uijin.tistory.com/52)
-    - 전창하()
+    - 전창하(https://changha-dev.tistory.com/154)
     - 신민규(https://ukym-tistory.tistory.com/6)
     - 고병서(https://ko021954.tistory.com/6)
 
