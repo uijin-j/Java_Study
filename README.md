@@ -53,7 +53,7 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-06-15(목)
     - Chapter 7 객체지향언어 2
-    - 정의진 https://uijin.tistory.com/80
-    - 전창하 https://changha-dev.tistory.com/156
+    - 정의진 (https://uijin.tistory.com/80)
+    - 전창하 (https://changha-dev.tistory.com/156)
     - 신민규()
     - 고병서()
