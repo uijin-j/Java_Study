@@ -63,4 +63,4 @@ Tools Java Study for Spring 🪴🐶
     - 정의진 ()
     - 전창하 (https://changha-dev.tistory.com/157)
     - 신민규 ()
-    - 고병서 ()
+    - 고병서 (https://ko021954.tistory.com/8)
