@@ -57,3 +57,10 @@ Tools Java Study for Spring 🪴🐶
     - 전창하 (https://changha-dev.tistory.com/156)
     - 신민규 (https://ukym-tistory.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-II-OOP-Object-Oriented-Programming)
     - 고병서(https://ko021954.tistory.com/7)
+
+#### 2023-06-15(목)
+    - Chapter 8 예외처리 
+    - 정의진 ()
+    - 전창하 (https://changha-dev.tistory.com/157)
+    - 신민규 ()
+    - 고병서 ()
