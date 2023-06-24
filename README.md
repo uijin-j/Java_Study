@@ -59,7 +59,7 @@ Tools Java Study for Spring 🪴🐶
     - 고병서(https://ko021954.tistory.com/7)
 
 #### 2023-06-25(일)
-    - Chapter 8 예외처리 
+    - Chapter 8 예외처리 
     - 정의진 ()
     - 전창하 (https://changha-dev.tistory.com/157)
     - 신민규 ()
