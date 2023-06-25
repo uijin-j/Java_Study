@@ -60,7 +60,7 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-06-25(일)
     - Chapter 8 예외처리 
-    - 정의진 ()
+    - 정의진 (https://uijin.tistory.com/94)
     - 전창하 (https://changha-dev.tistory.com/157)
     - 신민규 ()
     - 고병서 (https://ko021954.tistory.com/8)
