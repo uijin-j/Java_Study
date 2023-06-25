@@ -62,5 +62,5 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 8 예외처리 
     - 정의진 (https://uijin.tistory.com/94)
     - 전창하 (https://changha-dev.tistory.com/157)
-    - 신민규 ()
+    - 신민규 (https://ukym-tistory.tistory.com/entry/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-exception-handling)
     - 고병서 (https://ko021954.tistory.com/8)
