@@ -64,3 +64,10 @@ Tools Java Study for Spring 🪴🐶
     - 전창하 (https://changha-dev.tistory.com/157)
     - 신민규 (https://ukym-tistory.tistory.com/entry/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-exception-handling)
     - 고병서 (https://ko021954.tistory.com/8)
+
+#### 2023-06-29(수)
+    - Chapter 9 java.lang패키지와 유용한 클래스 
+    - 정의진 ()
+    - 전창하 ()
+    - 신민규 (https://ukym-tistory.tistory.com/entry/javalang-package-util-classes)
+    - 고병서 ()
