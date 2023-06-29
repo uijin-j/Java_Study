@@ -70,4 +70,4 @@ Tools Java Study for Spring 🪴🐶
     - 정의진 ()
     - 전창하 (https://changha-dev.tistory.com/158)
     - 신민규 (https://ukym-tistory.tistory.com/entry/javalang-package-util-classes)
-    - 고병서 ()
+    - 고병서 (https://ko021954.tistory.com/9)
