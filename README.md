@@ -67,7 +67,7 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-06-29(수)
     - Chapter 9 java.lang패키지와 유용한 클래스 
-    - 정의진 ()
+    - 정의진 (https://uijin.tistory.com/100)
     - 전창하 (https://changha-dev.tistory.com/158)
     - 신민규 (https://ukym-tistory.tistory.com/entry/javalang-package-util-classes)
     - 고병서 (https://ko021954.tistory.com/9)
