@@ -71,3 +71,10 @@ Tools Java Study for Spring 🪴🐶
     - 전창하 (https://changha-dev.tistory.com/158)
     - 신민규 (https://ukym-tistory.tistory.com/entry/javalang-package-util-classes)
     - 고병서 (https://ko021954.tistory.com/9)
+
+#### 2023-07-13(목)
+    - Chapter 11 컬렉션 프레임웍
+    - 정의진 ()
+    - 전창하 (https://changha-dev.tistory.com/162)
+    - 신민규 ()
+    - 고병서 ()
