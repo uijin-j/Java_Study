@@ -82,5 +82,5 @@ Tools Java Study for Spring 🪴🐶
 #### 2023-07-20(목)
     - Chapter 12 지네릭스, 열거형, 애너테이션
     - 정의진 (https://uijin.tistory.com/130, https://uijin.tistory.com/133, https://uijin.tistory.com/134)
-    - 전창하 ()
+    - 전창하 (https://changha-dev.tistory.com/163)
     - 신민규 ()
