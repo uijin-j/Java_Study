@@ -84,3 +84,10 @@ Tools Java Study for Spring 🪴🐶
     - 정의진 (https://uijin.tistory.com/130, https://uijin.tistory.com/133, https://uijin.tistory.com/134)
     - 전창하 (https://changha-dev.tistory.com/163)
     - 신민규 (https://ukym-tistory.tistory.com/entry/%EC%A7%80%EB%84%A4%EB%A6%AD%EC%8A%A4Generics-%EC%97%B4%EA%B1%B0%ED%98%95Enumeration-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98Annotation)
+
+#### 2023-07-30(일)
+    - Chapter 13 쓰레드
+    - 정의진 ()
+    - 전창하 ()
+    - 신민규 ()
+    - 고병서 ()
