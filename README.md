@@ -87,7 +87,7 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-07-30(일)
     - Chapter 13 쓰레드
-    - 정의진 ()
+    - 정의진 (https://uijin.tistory.com/144)
     - 전창하 ()
     - 신민규 ()
     - 고병서 ()
