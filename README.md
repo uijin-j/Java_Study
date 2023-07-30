@@ -89,5 +89,5 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 13 쓰레드
     - 정의진 (https://uijin.tistory.com/144)
     - 전창하 (https://changha-dev.tistory.com/165)
-    - 신민규 ()
+    - 신민규 (https://ukym-tistory.tistory.com/entry/JAVA-%EC%93%B0%EB%A0%88%EB%93%9C-Thread)
     - 고병서 (https://ko021954.tistory.com/12)
