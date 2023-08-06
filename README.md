@@ -91,3 +91,10 @@ Tools Java Study for Spring 🪴🐶
     - 전창하 (https://changha-dev.tistory.com/165)
     - 신민규 (https://ukym-tistory.tistory.com/entry/JAVA-%EC%93%B0%EB%A0%88%EB%93%9C-Thread)
     - 고병서 (https://ko021954.tistory.com/12)
+
+#### 2023-08-06(일)
+    - Chapter 14 람다와 스트림 
+    - 정의진 ()
+    - 전창하 (https://changha-dev.tistory.com/166)
+    - 신민규 ()
+    - 고병서 ()
