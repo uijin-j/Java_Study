@@ -94,7 +94,14 @@ Tools Java Study for Spring 🪴🐶
 
 #### 2023-08-06(일)
     - Chapter 14 람다와 스트림 
-    - 정의진 ()
+    - 정의진 (https://uijin.tistory.com/154, https://uijin.tistory.com/155)
     - 전창하 (https://changha-dev.tistory.com/166)
     - 신민규 (https://ukym-tistory.tistory.com/entry/JAVA-%EB%9E%8C%EB%8B%A4-Lamda-%EC%8A%A4%ED%8A%B8%EB%A6%BC-Stream)
     - 고병서 (https://ko021954.tistory.com/13)
+
+#### 2023-08-13(일)
+    - Chapter 10 날짜와 시간 & 형식화 
+    - 정의진 ()
+    - 전창하 ()
+    - 신민규 ()
+    - 고병서 ()
