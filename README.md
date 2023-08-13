@@ -103,5 +103,5 @@ Tools Java Study for Spring 🪴🐶
     - Chapter 10 날짜와 시간 & 형식화 
     - 정의진 (https://uijin.tistory.com/166)
     - 전창하 (https://changha-dev.tistory.com/167)
-    - 신민규 ()
+    - 신민규 (https://ukym-tistory.tistory.com/entry/%EB%82%A0%EC%A7%9C%EC%99%80-%EC%8B%9C%EA%B0%84-%ED%98%95%EC%8B%9D%ED%99%94-date-time-and-formatting)
     - 고병서 (https://ko021954.tistory.com/14)
