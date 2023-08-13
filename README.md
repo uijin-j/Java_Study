@@ -102,6 +102,6 @@ Tools Java Study for Spring 🪴🐶
 #### 2023-08-13(일)
     - Chapter 10 날짜와 시간 & 형식화 
     - 정의진 ()
-    - 전창하 ()
+    - 전창하 (https://changha-dev.tistory.com/167)
     - 신민규 ()
     - 고병서 (https://ko021954.tistory.com/14)
