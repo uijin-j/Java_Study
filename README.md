@@ -2,8 +2,8 @@
 Tools Java Study for Spring 🪴🐶 
  
 ### 스터디 방식  
-- 스터디 기간 : 2023-03-24 ~ 2023-08-20
-- 매주 목요일 오후 7시 00분 - 10시 00분(3시간)
+- 스터디 기간 : 2023-03-24 ~ 2023-08-20 (5개월)
+- 매주 목요일 오후 7시 00분 - 10시 00분 (3시간)
 - 스터디 자료 : [Java의 정석](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp) 
 
 ✔️ 매주 공부 내용(한 챕터씩) 정리 및 공유(블로그, GitHub)
