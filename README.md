@@ -7,6 +7,7 @@ Tools Java Study for Spring 🪴🐶
 - 스터디 자료 : [Java의 정석](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp) 
 
 ✔️ 매주 공부 내용(한 챕터씩) 정리 및 공유(블로그, GitHub) 
+
 ✔️ 매주 해당 챕터에서 정해진 분량 발표 (Chapter 7 객체지향 언어부터 시작)
 
 ❗ 스터디 불참 / 필기본 미제출 시 벌금 5,000원 💸
