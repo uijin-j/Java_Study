@@ -115,10 +115,9 @@ Tools Java Study for Spring 🪴🐶
     - 신민규 (https://ukym-tistory.tistory.com/entry/%EB%82%A0%EC%A7%9C%EC%99%80-%EC%8B%9C%EA%B0%84-%ED%98%95%EC%8B%9D%ED%99%94-date-time-and-formatting)
     - 고병서 (https://ko021954.tistory.com/14)
 
-
 #### 2023-08-20(일)
-   - Chapter 16 네트워킹
-   - 정의진 ()
-   - 전창하 ()
-   - 신민규 ()
-   - 고병서 ()
+    - Chapter 16 네트워킹
+    - 정의진 ()
+    - 전창하 ()
+    - 신민규 ()
+    - 고병서 ()
